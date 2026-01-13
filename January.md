@@ -12,3 +12,10 @@
 - Learned primary constructors in C#
 - Worked on the UI of Summaro( a voice note summarizer web app)
 - Read on cryptography in cybersecurity
+
+## Jan 13
+-   I designed and implemented the graphical user interface for TaskWave using WPF and XAML.
+
+- I built and styled UI components to support task and list management within the desktop application.
+
+- Today i worked on the sidebar which is a component and the Tasks page which is also the landing page for the application.
