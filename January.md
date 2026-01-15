@@ -24,3 +24,7 @@
 - I read on data and communication
 - i worked a bit on Taskwave desktop app
 - i learnt the CRUD operation in c#
+
+## Jan 15
+- I learnt and read on REST APIs in C#.
+- I worked on a BookLibrary project with .NET MVC in my c# class today and learnt some new things.
